@@ -1,0 +1,11 @@
+{
+    "name": "root/nicholasFramework",
+    "require": {
+        "noahbuscher/macaw": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Application\\": "application/"
+        }
+    }
+}
